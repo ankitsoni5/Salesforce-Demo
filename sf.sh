@@ -1,3 +1,3 @@
 #!/bin/bash
-cd Salesforce-Demo/sample/
+cd ./sample/
 ant deployCode

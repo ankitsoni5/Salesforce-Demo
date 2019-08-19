@@ -1,3 +1,3 @@
 #!/bin/bash
-cd ./sample/
-ant deployCode
+cd ./Salesforce-Demo/
+/opt/apache-ant-1.10.6/bin/ant deployCode -f sample/build.xml 
